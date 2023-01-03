@@ -1,0 +1,22 @@
+.hvemErVi{
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.hvemErVi h1, .hvemErVi p{
+    width: 50%;
+    text-align: center;
+
+    text-shadow: 2px 2px black;
+}
+.hvemErVi h1{
+    font-size: 2rem;
+}
+.hvemErVi p{
+    font-size: 1.5rem;
+}
